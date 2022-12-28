@@ -1,4 +1,4 @@
-# OOD_2022CNU
+# OOD_CNU2022
 
 - ChungNam National University
 - Computer Science Engineering
